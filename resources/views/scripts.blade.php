@@ -1,0 +1,10 @@
+<script type="text/javascript" src="{{ asset('js/jquery-3.1.1.min.js') }}"></script>
+<script type="text/javascript" src="{{ asset('js/bootstrap.min.js') }}"></script>
+<script type="text/javascript" src="{{ asset('js/wow.min.js') }}"></script>
+<script type="text/javascript" src="{{ asset('js/owl.carousel.min.js') }}"></script>
+<script type="text/javascript" src="{{ asset('js/animatescroll.min.js') }}"></script>
+<script type="text/javascript" src="{{ asset('js/sticky-kit.min.js') }}"></script>
+<script type="text/javascript" src="{{ asset('js/bootstrap-transition.js') }}"></script>
+<script type="text/javascript" src="{{ asset('js/bootstrap-collapse.js') }}"></script>
+<script type="text/javascript" src="{{ asset('js/bootstrap-tab.js') }}"></script>
+<script type="text/javascript" src="{{ asset('js/myjs.js') }}"></script>
